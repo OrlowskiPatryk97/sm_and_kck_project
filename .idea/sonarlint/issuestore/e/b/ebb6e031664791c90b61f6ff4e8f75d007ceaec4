@@ -1,0 +1,19 @@
+
+f	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÕ¶¸
+m	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áæ–8‹©ˆèà0
+m	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ«¡®8’É’èà0
+m	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•½êÌ8¹ƒ’èà0
+C
+java:S1604("(Make this anonymous inner class a lambda(¨ÿ…Îúÿÿÿÿ
+q
+java:S1450"VRemove the "binding" field and declare it as a local variable in the relevant methods.(…Öéÿÿÿÿÿ
+r
+java:S1450"WRemove the "latitude" field and declare it as a local variable in the relevant methods.(Ù…‚ùÿÿÿÿ
+n
+java:S1450"XRemove the "longitude" field and declare it as a local variable in the relevant methods.(®Á–ƒ
+n
+java:S1450"SRemove the "mMap" field and declare it as a local variable in the relevant methods.(—­ƒÌÿÿÿÿÿ
+G
+java:S1068",Remove this unused "latitude" private field.(Ù…‚ùÿÿÿÿ
+C
+java:S1068"-Remove this unused "longitude" private field.(®Á–ƒ

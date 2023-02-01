@@ -1,0 +1,7 @@
+
+w
+java:S1450"URemove the "valuex" field and declare it as a local variable in the relevant methods.(‡‚Ä÷üÿÿÿÿ8­Ìþçà0
+—
+java:S11862"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÐŠß±
+L
+java:S1068"*Remove this unused "valuex" private field.(‡‚Ä÷üÿÿÿÿ8ÁÌþçà0
